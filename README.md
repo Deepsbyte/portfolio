@@ -20,4 +20,4 @@ Create a production build with `npm run build`, or preview it with `npm run prev
 
 ## Live site
 
-[View the portfolio](https://deepthi-portfolio.vercel.app/)
+[View the portfolio](https://deepthicosmo.vercel.app/)
